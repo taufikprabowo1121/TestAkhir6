@@ -1,0 +1,12 @@
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Pengamatan6\Pengamatan6\bin\Debug\Pengamatan6.exe.config
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Pengamatan6\Pengamatan6\obj\Debug\Pengamatan6.csprojResolveAssemblyReference.cache
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Pengamatan6\Pengamatan6\bin\Debug\Pengamatan6.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Pengamatan6\Pengamatan6\bin\Debug\Pengamatan6.pdb
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Pengamatan6\Pengamatan6\obj\Debug\Pengamatan6.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Pengamatan6\Pengamatan6\obj\Debug\Pengamatan6.pdb
+C:\Users\GeeksFarm\Documents\Visual Studio 2015\Projects\TestAkhir6\Pengamatan6\bin\Debug\Pengamatan6.exe.config
+C:\Users\GeeksFarm\Documents\Visual Studio 2015\Projects\TestAkhir6\Pengamatan6\obj\Debug\Pengamatan6.exe
+C:\Users\GeeksFarm\Documents\Visual Studio 2015\Projects\TestAkhir6\Pengamatan6\obj\Debug\Pengamatan6.pdb
+C:\Users\GeeksFarm\Documents\Visual Studio 2015\Projects\TestAkhir6\Pengamatan6\bin\Debug\Pengamatan6.exe
+C:\Users\GeeksFarm\Documents\Visual Studio 2015\Projects\TestAkhir6\Pengamatan6\bin\Debug\Pengamatan6.pdb
+C:\Users\GeeksFarm\Documents\Visual Studio 2015\Projects\TestAkhir6\Pengamatan6\obj\Debug\Pengamatan6.csprojResolveAssemblyReference.cache
